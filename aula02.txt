@@ -1,1 +1,3 @@
-Menu lateral
+Menu latera
+Rodapé
+Topo do arquivo
